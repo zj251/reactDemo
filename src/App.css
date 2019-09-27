@@ -31,3 +31,52 @@
     transform: rotate(360deg);
   }
 }
+
+.list-con {
+  width: 360px!important;
+  float: left;
+  padding: 50px 100px!important;
+  /* background: url(../src/img/background.png) no-repeat fixed center; */
+}
+.con-title {
+  font-size: 36px;
+}
+.search-title {
+  width: 360px!important;
+  height: 48px!important;
+  margin-top: 55px;
+}
+.admin-list {
+  width: 360px;
+}
+.sort-newest {
+  color: rgb(59, 59, 59);
+}
+.employee-title {
+  color: rgb(112, 107, 136);
+  margin-top: 20px;
+}
+.create-box {
+  width: 400px;
+  margin: 40px 200px;
+  float: left;
+}
+.create-btn {
+  width: 400px;
+  height: 50px;
+  line-height: 50px;
+  border-radius: 15px;
+  background: black;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+}
+.people-info {
+  width: 400px;
+  height: 400px;
+  position: relative;
+  top: 270px;
+  left: 560px;
+  border-radius: 15px;
+  box-shadow: 0px 0px 5px 5px #eee;
+}
